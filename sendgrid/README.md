@@ -14,7 +14,7 @@ or from the [web interface][sendgrid-addon]
 
 A list of all plans available can be found [here][sendgrid-addon].
 
-Once SendGrid has been added a `SENDGRID_USERNAME`, `SENDGRID_PASSWORD` settings will be available in the app configuration and will contain the credentials used to access the newly provisioned SendGrid service instance. This can be confirmed using the `modulus env get` command.
+Once SendGrid has been added `SENDGRID_USERNAME`, `SENDGRID_PASSWORD` settings will be available in the app configuration and will contain the credentials used to access the newly provisioned SendGrid service instance. This can be confirmed using the `modulus env get` command.
 
     $ modulus env get SENDGRID_USERNAME
     sendgrid100099@modulus.io

@@ -107,6 +107,6 @@ Additional resources are available at:
 - [Code Examples](http://sendgrid.com/docs/Code_Examples/index.html)
 
 
-[sendgrid-addon]: http://addons.xammr.com/sendgrid
-[modulus-addon]: http://addons.xammr.com
-[modulous-dashboard]: http://xammr.com:8000/user/dashboard
+[sendgrid-addon]: https://addons.modulus.io/sendgrid
+[modulus-addon]: https://addons.modulus.io/
+[modulous-dashboard]: https://modulus.io/user/dashboard
